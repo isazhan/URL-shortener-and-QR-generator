@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://456.kz/sitemap.xml

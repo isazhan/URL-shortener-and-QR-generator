@@ -1,0 +1,56 @@
+body {
+	background-color: rgb(32, 33, 36);
+	background-image: url("img/body.png");
+	background-repeat: no-repeat;
+}
+
+nav {
+	list-style-type: none;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+	overflow: hidden;
+	width: 80%;	
+}
+
+li {
+	float: left;
+	border-right:20px;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.main {
+	position: absolute;
+	top: 40%;
+	right: 0;
+	left: 0;
+}
+
+.brand {
+	color: rgb(165, 35, 65);
+	font-size: 70px;
+	font-weight: 700;
+	text-align: center;
+}
+
+form {
+	text-align: center;
+}
+
+input[type=text] {
+	width: 50%;
+	border-radius: 24px;
+	padding: 16px 24px;
+}
+
+.index-seo {
+	position: absolute;
+	visibility: hidden;
+}
