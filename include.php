@@ -4,11 +4,11 @@ define("URL_LENGTH", 7);
 define("URL_BASE", 'https://456.kz/');
 
 // db options
-define('DB_NAME', 'kz121043_456');
-define('DB_USER', 'kz121043_admin');
-define('DB_PASS', 'Glak99@6');
-define('DB_SERVER', 'srv-db-plesk05.ps.kz:3306');
-define('DB_TABLE', 'short_links');
+define('DB_NAME', '');
+define('DB_USER', '');
+define('DB_PASS', '');
+define('DB_SERVER', '');
+define('DB_TABLE', '');
 
 // defene the character set for the url codes to generate from
 define("CHARSET", "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ");
